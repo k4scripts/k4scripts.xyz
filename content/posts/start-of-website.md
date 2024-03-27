@@ -1,7 +1,7 @@
 ---
 title: 'The start of the website!'
 date: 2024-03-27T11:12:34+01:00
-draft: true
+draft: false
 authors:
     - k4os
 categories: 
